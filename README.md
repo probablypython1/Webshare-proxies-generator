@@ -13,7 +13,7 @@ or contact me via dms : @.exploited.
 
 ###
 
-<img align="right" height="150" src="https://media.discordapp.net/attachments/1150218683130597406/1151294032274784327/ezgif-3-e49f460ae2.gif"/>
+<img align="right" height="150" src="https://images-ext-2.discordapp.net/external/RIIf8nhTJLXZQ0D_RCJfUNwwIT2eO4XmlXpcJP3kN4Y/https/media.tenor.com/0LCKqwYemmsAAAPo/toocool-cool.mp4"/>
 
 ###
 
