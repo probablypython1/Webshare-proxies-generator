@@ -1,7 +1,8 @@
 # Webshare-proxies-generator
 WebShare proxy generator it's using requests to create webshare accounts then generate a proxy it's saving sticky , rotating ones in the files . Enjoy using it make sure to modify the file and add you capsolver key in it.
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+Join my discord if you need help : https://discord.gg/dis-st
+or contact me via dms : @.exploited.
+<h2 align="left">Hi 👋! My name is Mano and I'm a WebScraper, from Egypt</h2>
 
 ###
 
